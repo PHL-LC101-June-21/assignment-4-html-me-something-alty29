@@ -1,1 +1,39 @@
 /* Write your CSS here! */
+
+h1, h2, h3 {
+    padding: 1.875em 0;
+    background-color: black;
+    color: darkred;
+    margin: 90px
+}
+h1 {
+    line-height: 80%;
+}
+
+b {
+    color: black
+}
+body {
+    background-color: darkgrey;
+    text-align: center;
+    margin: 8px;
+    display: block;
+}
+
+#mainHeading {
+    background-color: darkslategrey;
+    color: darkred;
+    margin: 50px;
+}
+
+p.funParagraph {
+    text-align: center;
+    color: darkgreen;
+    margin: 50px
+}
+
+p {
+    background-color: black;
+    color: darkred;
+    margin: 50px
+}
